@@ -1,0 +1,44 @@
+.turn{
+
+    transform: perspective(75em) rotateY(-20deg);}
+
+
+body{
+    overflow-x:  hidden;
+    margin: 0;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.road-image {
+    background: url(/images/road2.jpg) no-repeat center; 
+    background-size: cover;
+    height: 100%;    
+  }
+ .black{
+     background-color: black;
+ } 
+  .back {
+      background-color:#eee;}
+
+.footer{
+    list-style:none;
+}
+
+.footer a{
+    color:white;
+    margin: 0;
+}
+
+.footer a:active,.footer a:focus,.footer a:hover
+{
+  color:rgb(6, 124, 35);
+  text-decoration:none;
+}
+
+.space{
+    column-gap: 40px;
+    column-count: 3;
+}

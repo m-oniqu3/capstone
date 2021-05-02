@@ -1,0 +1,16 @@
+.widebox{
+    background-color: rgb(96, 177, 150);
+    height:30vh;
+    width: 90%;
+    border-radius: 25px;
+    box-shadow:20px 20px 10px rgba(0, 0, 0, 0.329); 
+}
+
+.c{
+    background-color: rgb(96, 177, 150);
+}
+
+.e{
+    background-color: rgb(222, 167, 49);
+}
+
